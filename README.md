@@ -1,2 +1,2 @@
 # Network-Scanner1
-This python script maps APR and IP in Kali LInux.
+This python script maps APR and IP of the target machines in Kali LInux.
